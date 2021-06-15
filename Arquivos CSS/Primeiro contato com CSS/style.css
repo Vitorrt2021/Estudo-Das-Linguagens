@@ -1,0 +1,87 @@
+body{
+    background: linear-gradient(to left ,green,white);
+    
+    
+}
+main{
+    margin: 80px 320px;
+    border: 10px solid greenyellow;
+    height: 400px;
+    width: 60%;
+    background:  linear-gradient(to right ,rgb(194, 158, 158),green,brown,blue,black);
+}
+h1[class~=Miasma]{
+    text-align: center;
+    font-size: 20mm;
+    color:red;
+    transform:skewY(-10deg);
+}
+h1[class~=Miasma]:hover{
+    color:aliceblue;
+    
+}
+
+#paragrafo1{
+    color:green;
+}
+li:first-child{
+
+    color:brown;
+}
+li{
+    float: inline-end;
+}
+.videoAula:link{
+    color:red;
+    text-decoration: none;
+}
+
+h1[class~='2']{
+    color:blue;
+}
+
+.container{
+    display:flex;
+    background-color: aqua;
+    margin: 10px;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items:center;
+
+    width: 900px;
+    height: 300px;
+  
+}
+
+.container-item{
+    background:blue;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+
+    width: 70px;
+    line-height: 50px;
+    margin: 10px;
+
+}
+
+.grid-container{
+    background-color: aliceblue;
+    margin: 10px;
+    height: 300px;
+    
+    display: grid;
+    grid-template-columns: 10px 10px 10px ;
+    grid-template-rows: auto auto auto;
+    grid-column-gap: 75px  ;
+}
+
+.grid-item{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+
+    width: 70px;
+    line-height: 40px;
+    margin: 10px;
+}

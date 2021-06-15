@@ -1,0 +1,16 @@
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\bin\Debug\net5.0\POO C#.exe
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\bin\Debug\net5.0\POO C#.deps.json
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\bin\Debug\net5.0\POO C#.runtimeconfig.json
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\bin\Debug\net5.0\POO C#.runtimeconfig.dev.json
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\bin\Debug\net5.0\POO C#.dll
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\bin\Debug\net5.0\ref\POO C#.dll
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\bin\Debug\net5.0\POO C#.pdb
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\obj\Debug\net5.0\POO C#.csproj.AssemblyReference.cache
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\obj\Debug\net5.0\POO C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\obj\Debug\net5.0\POO C#.AssemblyInfoInputs.cache
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\obj\Debug\net5.0\POO C#.AssemblyInfo.cs
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\obj\Debug\net5.0\POO C#.csproj.CoreCompileInputs.cache
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\obj\Debug\net5.0\POO C#.dll
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\obj\Debug\net5.0\ref\POO C#.dll
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\obj\Debug\net5.0\POO C#.pdb
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\POO C#\obj\Debug\net5.0\POO C#.genruntimeconfig.cache

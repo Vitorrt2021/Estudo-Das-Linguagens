@@ -1,0 +1,16 @@
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\bin\Debug\net5.0\Nova pasta.exe
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\bin\Debug\net5.0\Nova pasta.deps.json
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\bin\Debug\net5.0\Nova pasta.runtimeconfig.json
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\bin\Debug\net5.0\Nova pasta.runtimeconfig.dev.json
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\bin\Debug\net5.0\Nova pasta.dll
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\bin\Debug\net5.0\ref\Nova pasta.dll
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\bin\Debug\net5.0\Nova pasta.pdb
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\obj\Debug\net5.0\Nova pasta.csproj.AssemblyReference.cache
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\obj\Debug\net5.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\obj\Debug\net5.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\obj\Debug\net5.0\Nova pasta.AssemblyInfo.cs
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\obj\Debug\net5.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\obj\Debug\net5.0\Nova pasta.dll
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\obj\Debug\net5.0\ref\Nova pasta.dll
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\obj\Debug\net5.0\Nova pasta.pdb
+C:\Users\kleit\OneDrive\Área de Trabalho\Prog\Arquivo das Linguagens\C#\Nova pasta\obj\Debug\net5.0\Nova pasta.genruntimeconfig.cache

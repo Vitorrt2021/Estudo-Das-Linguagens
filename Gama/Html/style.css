@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(219, 184, 138);
+}
+h1{
+    color: blue;
+}
+
+#imgGoogle
+{
+    border: solid 2px red;
+    border-color: red;
+    border-style: solid;
+}
+.titulo
+{
+    color: aqua;
+    font-size: 50px;
+    font-style: arial;
+    text-align: center;
+    padding: 2px 2px;
+    margin: 4px 4px;
+}
+.titulo:hover{
+    color: blueviolet;
+}
+
+@media (max-width: 600px) and (min-width: 100px)
+{
+    .titulo{
+        background-color: black;
+    }
+}
+
+.paragrafo
+{
+    font-style: inherit;
+    font-size: 20px;
+    text-align: center;
+}
+
+.formulario
+{
+    border: solid 4px orange;
+    background-color: chartreuse;
+}
+
+#B1
+{
+    font-size: 50px;
+    font-weight: bold;
+    color:brown;
+    background-color: rgb(118, 118, 219);
+}
+
+.flex-div
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.child-div
+{
+    margin: 20px;
+    font-size: 40px;
+    text-align: center;
+    background-color: salmon;
+    border: 5px solid black;
+    width: 100px;
+
+}
